@@ -4,3 +4,4 @@ QAZ
 QWE
 teah course feels good!
 I like to teach people!
+Git is a good tool.
